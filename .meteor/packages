@@ -24,6 +24,7 @@ session
 ## Orion
 orionjs:core
 orionjs:pages
+orionjs:relationships
 
 ## Styles
 # twbs:bootstrap 
