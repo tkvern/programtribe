@@ -34,6 +34,7 @@ email@1.0.12
 es5-shim@4.5.10
 fastclick@1.0.11
 fortawesome:fontawesome@4.5.0
+fourseven:scss@3.4.3
 froala:editor@1.2.8
 geojson-utils@1.0.8
 gildaspk:autoform-materialize@0.0.26
@@ -100,6 +101,7 @@ reactive-var@1.0.9
 reload@1.1.8
 retry@1.0.7
 routepolicy@1.0.10
+seba:minifiers-autoprefixer@1.0.1
 service-configuration@1.0.9
 session@1.1.5
 sha@1.0.7
